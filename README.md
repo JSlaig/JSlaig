@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-<img align="left" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalig00&layout=compact&langs_count=10&theme=monokai&hide_border=true" />
+<img align="center" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalig00&layout=compact&langs_count=10&theme=monokai&hide_border=true" />
 
 
 
