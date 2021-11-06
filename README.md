@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Languages and Tools by familiarity:
 
-## ⭐⭐⭐⭐⭐ (Confident on these tools and languages, don't know every bit of them But I am used to them)
+## ⭐⭐⭐⭐⭐
 
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 
-## ⭐⭐⭐⭐ (I use these but I still need further preparation to consider myself a professional on them)
+## ⭐⭐⭐⭐
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-## ⭐⭐⭐ (Have used them for some projects or I still haven't explored their possibilities fully)
+## ⭐⭐⭐
 
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-## ⭐⭐ (Have used these a couple times, would have to go back and re-study the projects I used them for)
+## ⭐⭐
 
 <!--- <img align="lleft" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> --->
 <img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-## ⭐ (Have used them at an specific point and know just the most basic stuff)
+## ⭐
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
