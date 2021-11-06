@@ -88,10 +88,9 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
+<summary>:zap: GitHub Stats</summary>
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jsalig00&show_icons=true&hide_border=true" />
+<img align="left" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jsalig00&show_icons=true&hide_border=true" />
 
 
 [website]: https://github.com/jsalig00
