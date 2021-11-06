@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-### Languages and Tools by familiarity:
+### Languages and Tools:
 
 ## ⭐⭐⭐⭐⭐
 
