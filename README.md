@@ -91,8 +91,10 @@ You can click the Preview link to take a look at your changes.
 <summary>:zap: GitHub Stats</summary>
 <br />
 <img align="left" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jsalig00&show_icons=true&hide_border=true&include_all_commits=true&theme=monokai" />
+
 <br />
-<img align="left" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalig00&layout=compact&langs_count=10&theme=monokai" />
+
+<img align="left" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalig00&layout=compact&langs_count=10&theme=monokai&hide_border=true" />
 
 
 
