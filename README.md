@@ -90,17 +90,16 @@ You can click the Preview link to take a look at your changes.
 
 <summary>:zap: GitHub Stats</summary>
 <br />
-<img align="center" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jsalig00&show_icons=true&hide_border=true&include_all_commits=true&theme=monokai" />
+<img align="center" alt="JSlaig's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JSlaig&show_icons=true&hide_border=true&include_all_commits=true&theme=monokai" />
 
 
-<img align="center" alt="JSalig00's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsalig00&layout=compact&langs_count=10&theme=monokai&hide_border=true" />
+<img align="center" alt="JSlaig's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSlaig&layout=compact&langs_count=10&theme=monokai&hide_border=true" />
 
 
 
 
-[website]: https://github.com/jsalig00
+[website]: https://github.com/JSlaig
 [gmail]: mailto:jsaligz@gmail.com
-[twitch]: https://www.twitch.tv/zer0kmh
 <!--- [twitter]: https://twitter.com/JSlaig --->
 [instagram]: https://www.instagram.com/jslaig/?hl=es
 [linkedin]: https://www.linkedin.com/in/jesús-salinero-guzmán-6bb407225/
