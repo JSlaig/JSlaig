@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Hey, name´s Jesus - aka [Chechu][Website]👋
+### Hey, name's Jesus - aka [Chechu][Website]👋
 
 
 ## I'm a software engineering student at UniLeon, my hometown's university
