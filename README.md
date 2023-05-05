@@ -4,15 +4,15 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Hey, name's Jesus - aka [Chechu][Website]👋
+### Hey, name's Jesus👋
 
 
 ## I'm a software engineering student at UniLeon, my hometown's university
 
 - 🔭 I am currently on my last year doing my final degree project to get graduated!!
-- 🌱 I enjoy learning about multiple fields of programming, but currently mostly focused into web developing.
-- 📖 I’m looking to develop my skills on fullstack web developing with the MERN stack.
-- 🥅 2022 Goals: Be able to code fluently on React, and after that decide on what field I'd rather specialize.
+- 🌱 I enjoy learning about multiple fields of programming, but currently mostly interested in web app development.
+- 📖 I’m looking to develop my skills on fullstack with MERN stack.
+- 🥅 2023 Goals: Be able to code fluently on React, and after that decide on what field I'd rather specialize.
 - ⚡ About me: In my free time I like to play the guitar, play videogames and mess around with projects I picture in my mind...
 
 ### Contact me:
