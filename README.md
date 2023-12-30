@@ -19,9 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 [<img align="left" alt="JSlaig | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="JSlaig | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--- [<img align="left" alt="JSlaig | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] --->
-[<img align="left" alt="JSlaig | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!--- [<img align="left" alt="JSlaig | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch] --->
 
 <br />
 
@@ -100,6 +97,4 @@ You can click the Preview link to take a look at your changes.
 
 [website]: https://github.com/JSlaig
 [gmail]: mailto:jsaligz@gmail.com
-<!--- [twitter]: https://twitter.com/JSlaig --->
-[instagram]: https://www.instagram.com/jslaig/?hl=es
 [linkedin]: https://www.linkedin.com/in/jesús-salinero-guzmán-6bb407225/
